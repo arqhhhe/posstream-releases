@@ -1,20 +1,20 @@
 {
   "schema": 1,
   "edition": "standard",
-  "versionName": "2.0.3-beta",
-  "versionCode": 11,
-  "tag": "std-v2.0.3-beta",
+  "versionName": "2.0.4-beta",
+  "versionCode": 12,
+  "tag": "std-v2.0.4-beta",
   "prerelease": true,
-  "publishedAt": "2026-10-17T17:54:35+00:00",
-  "notes": "I/O optimization, device integration, upgrade path",
-  "page": "https://github.com/arqhhhe/posstream-releases/releases/tag/std-v2.0.3-beta",
+  "publishedAt": "2026-10-17T18:19:03+00:00",
+  "notes": "New Windows installer (own WiX project): upgrades in place, refuses downgrades with instructions, Start POSStream on finish. Start-up data check: backup before upgrade, refuses data from a newer version.",
+  "page": "https://github.com/arqhhhe/posstream-releases/releases/tag/std-v2.0.4-beta",
   "assets": [
     {
       "profile": "general",
-      "name": "POSStream-2.0.3-beta-general.msi",
-      "size": 101277198,
-      "sha256": "13a6146e6932f28b19dd719d03a7701e8ac85d7043de0278f62d69530113d984",
-      "url": "https://github.com/arqhhhe/posstream-releases/releases/download/std-v2.0.3-beta/POSStream-2.0.3-beta-general.msi"
+      "name": "POSStream-2.0.4-beta-general.msi",
+      "size": 91337512,
+      "sha256": "30b5cc1f9365233257f8bbd3d66d0489abda2ade36c4aabd0511c3b708ef69cd",
+      "url": "https://github.com/arqhhhe/posstream-releases/releases/download/std-v2.0.4-beta/POSStream-2.0.4-beta-general.msi"
     }
   ]
 }
