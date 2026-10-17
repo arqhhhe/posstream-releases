@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "edition": "standard",
+  "versionName": "2.0.3-beta",
+  "versionCode": 11,
+  "tag": "std-v2.0.3-beta",
+  "prerelease": true,
+  "publishedAt": "2026-10-17T17:54:35+00:00",
+  "notes": "I/O optimization, device integration, upgrade path",
+  "page": "https://github.com/arqhhhe/posstream-releases/releases/tag/std-v2.0.3-beta",
+  "assets": [
+    {
+      "profile": "general",
+      "name": "POSStream-2.0.3-beta-general.msi",
+      "size": 101277198,
+      "sha256": "13a6146e6932f28b19dd719d03a7701e8ac85d7043de0278f62d69530113d984",
+      "url": "https://github.com/arqhhhe/posstream-releases/releases/download/std-v2.0.3-beta/POSStream-2.0.3-beta-general.msi"
+    }
+  ]
+}
